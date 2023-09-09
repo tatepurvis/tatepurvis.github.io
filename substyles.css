@@ -15,6 +15,7 @@ body {
 p {
     text-align:center;
     font-size:18px;
+    border: solid thin white;
 }
 
 html, body, div, span, applet, object, iframe,
